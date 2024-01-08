@@ -1,0 +1,67 @@
+/*h2[id="red"]{
+    color: red;
+    font-weight: normal;
+} 
+Above and below methods are correct👍
+
+NOTE:- insted of indivisual use of font-weigth use and img is also can be use a universal element to cange the img size
+
+.class-title{
+    font-weight: normal;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+*/
+
+#red{
+    color: red;
+    font-weight: normal;
+}
+
+.color{
+    height: 200px;
+    width: 200px;
+}
+
+#blue{
+    color: blue;
+    font-weight: normal;
+}
+
+img[alt="blue"]{
+    height: 200px;
+    width: 200px;
+}
+
+#orange{
+    color: orange;
+    font-weight: normal;
+}
+
+img[alt="orange"]{
+    height: 200px;
+    width: 200px;
+}
+
+#green{
+    color: green;
+    font-weight: normal;
+}
+
+img[alt="green"]{
+    height: 200px;
+    width: 200px;
+}
+
+#yellow{
+    color: yellow;
+    font-weight: normal;
+}
+
+img[alt="yellow"]{
+    height: 200px;
+    width: 200px;
+}
